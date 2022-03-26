@@ -2,7 +2,6 @@ import 'react-native-gesture-handler';
 
 import { StatusBar } from 'react-status-bar';
 import React from 'react';
-import { AppLoading } from 'react';
 
 import Routes from './src/router';
 
